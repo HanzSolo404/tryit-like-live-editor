@@ -9,7 +9,8 @@
 <td><textarea name="html" style="margin: 0px; height: 314px; width: 652px;"><?php echo $_POST['html'];?></textarea></td>
 <td><textarea name="css" style="margin: 0px; height: 314px; width: 652px;"><?php echo $_POST['css'];?></textarea></td>
 </tr>
-</table><input type="submit" name="submit">
+</table><input type="submit" name="submit"><br>
+Output:<br>
 </form>
 </body>
 </html>
